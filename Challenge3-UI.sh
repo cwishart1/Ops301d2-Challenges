@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script Name:                  Challenge3 
+# Script Name:                  Challenge3-UI
 # Class Name:                   Ops 301
 # Author Name:                  Cody Wishart
 # Date of latest revision:      3/4/21
