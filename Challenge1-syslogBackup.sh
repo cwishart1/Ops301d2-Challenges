@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script Name:                  Challenge1 
+# Script Name:                  Challenge1-syslogBackup 
 # Class Name:                   Ops 301
 # Author Name:                  Cody Wishart
 # Date of latest revision:      3/2/21
