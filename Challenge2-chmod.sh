@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script Name:                  Challenge2 
+# Script Name:                  Challenge2-chmod 
 # Class Name:                   Ops 301
 # Author Name:                  Cody Wishart
 # Date of latest revision:      3/3/21
