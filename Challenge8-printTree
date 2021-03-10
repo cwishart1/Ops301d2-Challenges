@@ -1,0 +1,27 @@
+#!/usr/bin/env python3
+
+# Script Name:                  Challenge6-printTree
+# Class Name:                   Ops 301
+# Author Name:                  Cody Wishart
+# Date of latest revision:      3/9/21
+# Purpose:                      Use os walk to print dir tree
+
+# Import Library
+import os
+
+# Declaration of variables
+userInput = input("Enter Directory: ")
+
+# Declaration of functions
+def printdirs(sampleDir):
+    for (root, dirs, files) in os.walk(sampleDir):
+        for d in dirs:
+            print (os.path.join(root, d))    
+        for f in files:
+            print (os.path.join(root, f))
+
+
+# Main
+printdirs(userInput)
+
+# End
