@@ -1,0 +1,5 @@
+New-ADUser -Name "Franz Ferdinand" -Office "Springfield, OR" -OtherAttributes @{ 'title'="TPS Reporting Lead";
+                                                                                 'mail'="ferdi@GlobeXpower.com";
+                                                                                 'company'="GlobeX USA";
+                                                                                 'department'="TPS"
+                                                                                  }
